@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at **<a href="github.com/notacloud" target="_blank" style="text-decoration:underline blue;">here</a>**
+- 👨‍💻 All of my projects are available at **here**
 
 - 📫 How to reach me **utkarshagrawal09jan@gmail.com**
 
