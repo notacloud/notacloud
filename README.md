@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **utkarshagrawal09jan@gmail.com**
 
-- 📄 View my portfolio at <a href="utkarshagrawal.vercel.app">Here</a>
+- 📄 View my portfolio <a href="https://utkarshagrawal.vercel.app" target="_blank" rel="noreferrer">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
