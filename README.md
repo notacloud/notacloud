@@ -1,6 +1,25 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Agrawal</h1>
-<h3 align="center">A developer from India</h3>
+# Hi there, I'm Utkarsh Agrawal! 👋
 
-- 📫 How to reach me **utkarshagrawal09jan@gmail.com**
+## About Me
 
-- 📄 View my portfolio <a href="https://utkarshagrawal.vercel.app" target="_blank" rel="noreferrer">here</a>
+I'm a passionate software developer with a keen interest in web development, data science, and artificial intelligence. I love to learn new technologies and contribute to open source projects. 
+
+- 🌱 I’m currently learning machine learning techniques.
+- 💬 Ask me about Golang, JavaScript, and web development.
+- 📫 How to reach me: [utkarshagrawal09jan@gmail.com](mailto:utkarshagrawal09jan@gmail.com)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love playing badminton and table tennis in my free time.
+
+## 📈 GitHub Stats
+
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarshagrrawal&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+
+- LinkedIn: [Utkarsh Agrawal]([https://www.linkedin.com/in/utkarshagrawal/](https://in.linkedin.com/in/utkarsh-agrawal-a7a756200))
+- X: [@utkarshagrrawal](https://x.com/utkarshagrrawal)
+- Email: [utkarshagrawal09jan@gmail.com](mailto:utkarshagrawal09jan@gmail.com)
+
+---
+
+⭐️ From [utkarshagrrawal](https://github.com/utkarshagrrawal)
