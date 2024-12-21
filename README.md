@@ -10,10 +10,6 @@ I'm a passionate software developer with a keen interest in web development, dat
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love playing badminton and table tennis in my free time.
 
-## 📈 GitHub Stats
-
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarshagrrawal&show_icons=true&theme=radical)
-
 ## 📫 Contact Me
 
 - LinkedIn: [Utkarsh Agrawal]([https://www.linkedin.com/in/utkarshagrawal/](https://in.linkedin.com/in/utkarsh-agrawal-a7a756200))
