@@ -12,7 +12,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 
 ## 📫 Contact Me
 
-- LinkedIn: [Utkarsh Agrawal]([https://www.linkedin.com/in/utkarshagrawal/](https://in.linkedin.com/in/utkarsh-agrawal-a7a756200))
+- LinkedIn: [Utkarsh Agrawal](https://in.linkedin.com/in/utkarshagrrawal)
 - Email: [utkarshagrawal09jan@gmail.com](mailto:utkarshagrawal09jan@gmail.com)
 
 ---
